@@ -9,5 +9,5 @@ Calculator
 
 实例
 ---
-![运行实例](http://www.github.com/dafeig9977/Calculator/master/运行实例.png)
+![运行实例](https://github.com/dafeiq9977/Calculator/blob/master/运行实例.png)
 
