@@ -7,7 +7,3 @@ Calculator
 ---
 在命令行中输入一个四则运算表达式，回车后得到结果，或者输入'q'退出程序。
 
-实例
----
-![运行实例](https://github.com/dafeiq9977/Calculator/blob/master/运行实例.png)
-
